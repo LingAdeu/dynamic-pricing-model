@@ -1,4 +1,4 @@
-![header](header.png)
+![header](headerNew.png)
 
 # Optimizing Ride Fares: A Dynamic Pricing Model for Ride-Sharing Services
 
