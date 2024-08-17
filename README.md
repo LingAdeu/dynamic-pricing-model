@@ -6,10 +6,14 @@
 
 ## Content
     .
-    ├── README.md                <- The top-level README for using this project.
+    ├── README.md               <- The top-level README for using this project.
     ├── data
-    ├── notebook.ipynb           <- The Jupyter notebook to run and explain the code.
-    └── requirements.txt         <- The requirements file for reproducing the environment.
+    │   └── dynamic_pricing.csv
+    ├── model
+    │   └── final_model.pkl
+    ├── notebook
+    │   └── notebook.ipynb    <- The Jupyter notebook to build the model.
+    └── requirements.txt      <- The requirements file for reproducing the environment.
 
 ## Feedback
 If there are any questions or suggestions for improvements, feel free to contact me here:
