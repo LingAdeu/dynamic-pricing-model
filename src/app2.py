@@ -7,7 +7,8 @@ path = 'model/final_model.pkl'
 model = joblib.load(path)
 
 def predict_price(data):
-    return model.predict(data)
+    predictions = model.predict(data)
+    return [round(pred, 2) for pred in predictions]
 
 # Streamlit App
 st.title("Dynamic Pricing Model Prediction")
