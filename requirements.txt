@@ -1,16 +1,17 @@
-catboost            1.2.5
-joblib              1.2.0
-joypy               0.2.6
-lightgbm            4.3.0
-matplotlib          3.7.4
-numpy               1.23.5
-pandas              1.5.3
-phik                0.12.4
-ptitprince          NA
-scipy               1.10.1
-seaborn             0.11.0
-session_info        1.0.0
-shap                0.45.1
-sklearn             1.2.2
-statsmodels         0.14.2
-xgboost             2.0.3
+catboost==1.2.5
+joblib==1.2.0
+joypy==0.2.6
+lightgbm==4.3.0
+matplotlib==3.7.4
+numpy==1.23.5
+pandas==1.5.3
+phik==0.12.4
+ptitprince==0.2.7
+scipy==1.13.1
+seaborn==0.11.0
+session_info==1.0.0
+shap==0.45.1
+scikit-learn==1.2.2
+statsmodels==0.14.2
+xgboost==2.0.3
+streamlit==1.36.0
